@@ -1,2 +1,2 @@
 # portfolio-projects
-A few interesting projects that I have worked on.
+A few of the projects that I have worked on.
